@@ -17,7 +17,8 @@
                 "CsvDelimiter": "|",
                 "HasCsvHeader": false,
                 "HasCsvBoundary": false,
-                "CsvEscapeMode": "NoEscape",
+                "CsvEscapeMode": "Escape",
+                "CsvEscape": "\\",
                 "Format": "csv",
                 "IsCompressed": false
             },

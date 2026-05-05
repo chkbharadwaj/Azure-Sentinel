@@ -1,5 +1,6 @@
 | **Version** | **Date Modified (DD-MM-YYYY)** | **Change History**                               |
 |-------------|--------------------------------|------------------------------------------------- |
+| 3.1.2       | 05-05-2026                     |  Set `"CsvEscapeMode": "Escape"` with `"CsvEscape": "\\"` to honor CEF backslash-escaping (`\|`, `\=`, `\"`, `\\`) in extension fields, preventing data loss when the pipe character appears inside extension values |
 | 3.1.1       | 10-04-2026                     |  Add `"CsvEscapeMode": "NoEscape"` to prevent logs with embedded JSON from being dropped during ingestion |
 | 3.1.0       | 30-03-2026                     |  Promoted the Imperva Cloud WAF CCF connector to Public Preview |
 | 3.0.2       | 06-06-2025                     |  Migrated the **Function app** connector to **CCF** Data connector and updated **Parser**     |
