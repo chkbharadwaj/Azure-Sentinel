@@ -34,7 +34,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
@@ -93,7 +93,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
@@ -152,7 +152,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
@@ -211,7 +211,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
@@ -270,7 +270,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
@@ -329,7 +329,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
@@ -388,7 +388,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
@@ -447,7 +447,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
@@ -506,7 +506,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
@@ -565,7 +565,7 @@
       },
       "response": {
         "eventsJsonPaths": [
-          "$"
+          "$.data[*]"
         ],
         "format": "json"
       },
